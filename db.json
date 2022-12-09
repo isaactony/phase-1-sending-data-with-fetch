@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,35 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "",
+      "dogBreed": "",
+      "id": 5
+    },
+    {
+      "dogName": "isaa",
+      "dogBreed": "isaa@gmail.com",
+      "id": 6
+    },
+    {
+      "dogName": "isaa",
+      "dogBreed": "isaa@gmail.com",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +48,372 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userDetails": {
+        "name": "Byron",
+        "email": "isaactonyloi@gmail.com"
+      },
+      "id": 1
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 2
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 3
+    },
+    {
+      "name": "sssee",
+      "email": "isaactonyloi@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "ccs",
+      "email": "isaactonyloi@gmail.com",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "sssee",
+      "email": "isaac.tonyloi@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57
+    },
+    {
+      "id": 58
+    },
+    {
+      "id": 59
+    },
+    {
+      "id": 60
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62
+    },
+    {
+      "id": 63
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 65
+    },
+    {
+      "id": 66
+    },
+    {
+      "id": 67
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71
+    },
+    {
+      "id": 72
+    },
+    {
+      "id": 73
+    },
+    {
+      "id": 74
+    },
+    {
+      "id": 75
+    },
+    {
+      "id": 76
+    },
+    {
+      "id": 77
+    },
+    {
+      "id": 78
+    },
+    {
+      "id": 79
+    },
+    {
+      "id": 80
+    },
+    {
+      "id": 81
+    },
+    {
+      "id": 82
+    },
+    {
+      "id": 83
+    },
+    {
+      "id": 84
+    },
+    {
+      "id": 85
+    },
+    {
+      "id": 86
+    },
+    {
+      "id": 87
+    },
+    {
+      "id": 88
+    },
+    {
+      "id": 89
+    },
+    {
+      "id": 90
+    },
+    {
+      "id": 91
+    },
+    {
+      "id": 92
+    },
+    {
+      "id": 93
+    },
+    {
+      "id": 94
+    },
+    {
+      "name": "sss",
+      "email": "isaac.tonyloi",
+      "id": 95
+    },
+    {
+      "name": "sss",
+      "email": "isaac.tonyloi",
+      "id": 96
+    },
+    {
+      "name": "sss",
+      "email": "isaac.tonyloi",
+      "id": 97
+    },
+    {
+      "name": "sss",
+      "email": "isaac.tonyloi",
+      "id": 98
+    },
+    {
+      "name": "sss",
+      "email": "isaac.tonyloi",
+      "id": 99
+    },
+    {
+      "name": "sss",
+      "email": "isaac.tonyloi",
+      "id": 100
+    },
+    {
+      "name": "Jolof",
+      "email": "isaactonyloi@gmail.com",
+      "id": 101
+    },
+    {
+      "name": "BLue Ramen",
+      "email": "isaac.tonyloi@gmail.com",
+      "id": 102
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 103
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
